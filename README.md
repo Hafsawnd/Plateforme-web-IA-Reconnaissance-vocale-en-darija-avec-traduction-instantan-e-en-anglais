@@ -1,4 +1,4 @@
-#Reconnaissance vocale en Darija avec traduction instantanée en anglais : une plateforme web propulsée par l’IA
+Reconnaissance vocale en Darija avec traduction instantanée en anglais : une plateforme web propulsée par l’IA
 Ce projet a pour ambition de concevoir une plateforme d’intelligence artificielle capable de distinguer les différents accents et dialectes de la Darija (Tétouania, Ouazania, Casawia, Oujdia), tout en offrant des fonctionnalités avancées de transcription vocale (speech-to-text) et de traduction en anglais en temps réel. L’objectif est de rendre les langues locales plus accessibles et compréhensibles dans un contexte mondial.
 
 Cette initiative facilite la communication entre Marocains et non-Marocains, notamment à l’occasion d’événements internationaux comme le Mondial 2030, et elle améliore l’interaction avec les technologies IoT, telles que les assistants vocaux (par exemple, Alexa). En permettant à ces systèmes de mieux comprendre et traiter les spécificités de la Darija, la plateforme contribue à l’inclusion numérique et à l’intégration des communautés locales dans la révolution technologique globale.
